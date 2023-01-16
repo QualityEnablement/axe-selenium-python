@@ -26,7 +26,7 @@ setup(
         ]
     },
     include_package_data=True,
-    install_requires=["selenium==4.1.3", "pytest>=3.0"],
+    install_requires=["selenium==4.1.3", "pytest==7.2.1"],
     license="Mozilla Public License 2.0 (MPL 2.0)",
     keywords="axe-core selenium pytest-selenium accessibility automation mozilla",
 )
